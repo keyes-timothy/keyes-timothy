@@ -1,4 +1,4 @@
-### An under-constuction GitHub
+### An under-constuction GitHub page
 
 Welcome to my GitHub page! I'm still building it out, but for now just know...
 
