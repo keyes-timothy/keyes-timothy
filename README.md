@@ -1,6 +1,6 @@
 ### An under-constuction GitHub page
 
-Welcome to my GitHub page! I'm still building it out, but for now just know...
+Welcome to my GitHub page! A few things about me:
 
 * My name is Timothy, and I'm an MD/PhD student at Stanford
 * I'm an aspiring clinical data scientist 
