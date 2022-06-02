@@ -1,5 +1,3 @@
-### An under-constuction GitHub page
-
 Welcome to my GitHub page! A few things about me:
 
 * My name is Timothy, and I'm an MD/PhD student at Stanford
